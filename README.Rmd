@@ -8,12 +8,11 @@ output: github_document
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  fig.path = "man/figures/README-",
   out.width = "100%"
 )
 ```
 
-# algatr workshop <img src="man/figures/logo.png" align="right" height="160"/>
+# algatr workshop <img src="figures/logo.png" align="right" height="160"/>
 
 **A** **L**andscape **G**enomic **A**nalysis **T**oolkit in **R** (**algatr**) was built to provide researchers with a step-by-step, start-to-finish pipeline to perform core landscape genomic analysis methods with their data.
 

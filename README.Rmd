@@ -17,6 +17,8 @@ knitr::opts_chunk$set(
 
 **A** **L**andscape **G**enomic **A**nalysis **T**oolkit in **R** (**algatr**) was built to provide researchers with a step-by-step, start-to-finish pipeline to perform core landscape genomic analysis methods with their data.
 
+Check out the [algatr website](thewanglab.github.io/algatr/) for knitted vignettes and walkthroughs.
+
 ## Installation and documentation
 
 ------------------------------------------------------------------------
@@ -29,13 +31,13 @@ Please refer to the [algatr GitHub page](https://github.com/TheWangLab/algatr) f
 
 In this course, we provide brief lectures summarizing each of algatr's **six** landscape genomics methods. Exercises will refer to each of the algatr vignettes. Relevant materials are as follows:
 
-| Lecture topic                              | Exercise materials       | Relevant references |
-|------------------------|-----------------------------------|-------------|
-| [Welcome](REFER)                           |                          |                     |
-| [Population structure](REFER)              | [TESS vignette](REFER)   |                     |
-| [Genetic diversity](REFER)                 | [wingen vignette](REFER) |                     |
-| [MMRR](REFER)                              | [MMRR vignette](REFER)   |                     |
-| [GDM](REFER)                               | [GDM vignette](REFER)    |                     |
-| [Genotype-environment associations](REFER) | [RDA vignette](REFER)    |                     |
-|                                            | [LFMM vignette](REFER)   |                     |
-|                                            |                          |                     |
+| Lecture topic                     | Exercise materials                                                                   | Relevant references                                                                                    |
+|-----------------------|---------------------------------|-----------------|
+| Welcome                           |                                                                                      | [Chambers et al. 2024](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13884)                    |
+| Population structure              | [TESS vignette](https://thewanglab.github.io/algatr/articles/TESS_vignette.html)     | [Caye et al. (2015)](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12471)                      |
+| Genetic diversity                 | [wingen vignette](https://thewanglab.github.io/algatr/articles/wingen_vignette.html) | [Bishop et al. (2023)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14090)        |
+| MMRR                              | [MMRR vignette](https://thewanglab.github.io/algatr/articles/MMRR_vignette.html)     | [Wang (2013)](https://academic.oup.com/evolut/article/67/12/3403/6851376?login=false)                  |
+| GDM                               | [GDM vignette](https://thewanglab.github.io/algatr/articles/GDM_vignette.html)       | [Ferrier et al. (2007)](https://onlinelibrary.wiley.com/doi/10.1111/j.1472-4642.2007.00341.x)          |
+| Genotype-environment associations | [RDA vignette](https://thewanglab.github.io/algatr/articles/RDA_vignette.html)       | [Capblancq & Forester (2021)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13722) |
+|                                   | [LFMM vignette](https://thewanglab.github.io/algatr/articles/LFMM_vignette.html)     | [Caye et al. (2019)](https://academic.oup.com/mbe/article/36/4/852/5290100?login=false)                |
+|                                   |                                                                                      |                                                                                                        |

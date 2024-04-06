@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# algatr workshop <img src="man/figures/logo.png" align="right" height="160"/>
+# algatr workshop <img src="figures/logo.png" align="right" height="160"/>
 
 **A** **L**andscape **G**enomic **A**nalysis **T**oolkit in **R**
 (**algatr**) was built to provide researchers with a step-by-step,
@@ -19,6 +19,24 @@ Please refer to the [algatr GitHub
 page](https://github.com/TheWangLab/algatr) for information on how to
 install and cite algatr. algatr’s README also has important information
 summarizing the package’s functionality.
+
+Quick start install instructions:
+
+``` r
+# Install devtools
+install.packages("devtools")
+
+# Install the algatr package
+devtools::install_github("TheWangLab/algatr")
+
+# Load algatr
+library(algatr)
+
+# Install all of the algatr package dependencies
+alazygatr_packages()
+
+# Good to go!
+```
 
 ## Structure of this workshop
 

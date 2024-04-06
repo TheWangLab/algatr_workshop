@@ -24,6 +24,23 @@ Check out the [algatr website](thewanglab.github.io/algatr/) for knitted vignett
 
 Please refer to the [algatr GitHub page](https://github.com/TheWangLab/algatr) for information on how to install and cite algatr. algatr's README also has important information summarizing the package's functionality.
 
+Quick start install instructions:
+```{r, eval = FALSE}
+# Install devtools
+install.packages("devtools")
+
+# Install the algatr package
+devtools::install_github("TheWangLab/algatr")
+
+# Load algatr
+library(algatr)
+
+# Install all of the algatr package dependencies
+alazygatr_packages()
+
+# Good to go!
+```
+
 ## Structure of this workshop
 
 ------------------------------------------------------------------------

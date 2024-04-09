@@ -10,7 +10,7 @@
   - **Exercise**: TESS in algatr
   - *Relevant algatr vignette [here](https://thewanglab.github.io/algatr/articles/TESS_vignette.html)*
 
-### Genetic diversity ([here](REFER))
+### Genetic diversity ([here](https://github.com/TheWangLab/algatr_workshop/blob/main/slides/workshop_wingen.pdf))
   - How do we measure genetic diversity?
   - wingen: framework and functionality
   - **Exercise**: wingen in algatr
@@ -30,7 +30,7 @@
   - **Exercise**: MMRR in algatr
   - *Relevant algatr vignette [here](https://thewanglab.github.io/algatr/articles/MMRR_vignette.html)*
 
-### Generalized dissimilarity modeling ([here](REFER))
+### Generalized dissimilarity modeling ([here](https://github.com/TheWangLab/algatr_workshop/blob/main/slides/workshop_GDM.pdf))
   - Generalized dissimilarity modeling (GDM)
   - **Exercise**: GDM in algatr
   - *Relevant algatr vignette [here](https://thewanglab.github.io/algatr/articles/GDM_vignette.html)*
